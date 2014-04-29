@@ -1,34 +1,35 @@
-## 简历
+## RESUME
 
-### 基本介绍
+### Brief Introduction
 
-+ 姓名    : 王帅
-+ 专业    : 软件工程
-+ 学校    : 武汉大学
-+ 学院    : 国际软件学院
++ Name    : Shuai Wang
++ Major   : Software Engineering
++ School  : WuHan University(WHU)
++ College : International Software School(ISS)
 
-### 联系信息
+### Contact Information
 
-+ 电话          : 13886121353
-+ 邮件          : [stamaimer@gmail.com](mailto:stamaimer@gmail.com)
-+ 网站          : [stamaimer.github.io](http://stamaimer.github.io/)
++ Phone         : 13886121353
++ Email         : [stamaimer@gmail.com](mailto:stamaimer@gmail.com)
 + GitHub        : [stamaimer](https://github.com/stamaimer)
++ Website       : [stamaimer.github.io](http://stamaimer.github.io/)
 + StackOverflow : [stamaimer](http://stackoverflow.com/users/2714012/stamaimer) 
-### 研究兴趣
+### Research Interests
 
-+ C++ 
++ C++ Programming Language
     + [Qt](http://qt-project.org/)
-+ 爬虫
-+ 软件设计
++ Crawler
++ Software Design
 
-### 教育经历
+### Education
 
-+ 2011， 武汉大学， 中国
++ 2011, WuHan University(WHU), China
++ 2008, TianJin YaoHua HighSchool, China
 
 ### Projects
 
-+ E-Wallet, Citi Cup, 2013
-  Android, NFC 相关。
++ E-Wallet, Citi Cup, 2013, Hengjin Cai  
+  Android, NFC involved.
 
 + Other Projects, ISS Software R&D Center, 2012-2013, Gang Chen  
   [Eucalyptus](https://www.eucalyptus.com/), [AWS](http://aws.amazon.com/), [gSOAP](http://www.cs.fsu.edu/~engelen/soap.html), REST, Linux, [Qt](http://qt-project.org/), and other techs involved.
@@ -47,6 +48,7 @@
 + [Hadoop](http://hadoop.apache.org/)
 + Data Mining and Visualization
 + Big Data in SNS, E-Commerce
++ User Information Fusion based on Multiple Social Media, Big Data and Cloud  Computing Lab, 2014-current, Xiaohui Cui.
 
 
 
