@@ -14,6 +14,7 @@
 + GitHub        : [stamaimer](https://github.com/stamaimer)
 + Website       : [stamaimer.github.io](http://stamaimer.github.io/)
 + StackOverflow : [stamaimer](http://stackoverflow.com/users/2714012/stamaimer) 
+
 ### Research Interests
 
 + C++ Programming Language
