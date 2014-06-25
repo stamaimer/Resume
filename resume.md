@@ -44,14 +44,9 @@
 
 ### Now and Future
 
-+ STL
-+ [Boost](http://www.boost.org/)
 + [Python](https://www.python.org/)
-+ [NodeJS](http://nodejs.org/)
-+ [Hadoop](http://hadoop.apache.org/)
 + Data Mining and Visualization
 + Big Data in SNS, E-Commerce
-+ User Information Fusion based on Multiple Social Media, Big Data and Cloud  Computing Lab, 2014-current, Xiaohui Cui.
 
 
 
