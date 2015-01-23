@@ -12,7 +12,7 @@
 + Phone         : 13886121353
 + Email         : [stamaimer@gmail.com](mailto:stamaimer@gmail.com)
 + GitHub        : [stamaimer](https://github.com/stamaimer)
-+ Website       : [stamaimer.github.io](http://stamaimer.github.io/)
++ Website       : [stamaimer.com](http://stamaimer.com/)
 + StackOverflow : [stamaimer](http://stackoverflow.com/users/2714012/stamaimer) 
 
 ### Research Interests
@@ -43,12 +43,14 @@
 
 ### Honors and Awards
 
-+ 2012-2013 The Third Prize Scholarship 
-+ 2013-2014 The Third Prize Scholarship 
++ 2011-2012 The Third Prize Scholarship 
++ 2012-2013 The Third Prize Scholarship
++ 2013-2014 The Second Prize Scholarship
 
 ### Now and Future
 
 + [Python](https://www.python.org/)
++ JavaScript
 + Data Mining and Visualization
 + Big Data in SNS, E-Commerce
 
