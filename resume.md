@@ -12,7 +12,7 @@
 + Phone         : 13886121353
 + Email         : [stamaimer@gmail.com](mailto:stamaimer@gmail.com)
 + GitHub        : [stamaimer](https://github.com/stamaimer)
-+ Website       : [stamaimer.com](http://stamaimer.com/)
++ Website       : [blog.stamaimer.com](http://blog.stamaimer.com/)
 + StackOverflow : [stamaimer](http://stackoverflow.com/users/2714012/stamaimer) 
 
 ### Research Interests
@@ -50,6 +50,7 @@
 
 ### Now and Future
 
++ Ruby
 + [Python](https://www.python.org/)
 + JavaScript
 + Data Mining and Visualization
