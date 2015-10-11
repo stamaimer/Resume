@@ -24,16 +24,17 @@
 
 ### Education
 
-+ 2011, WuHan University(WHU), China
++ 2015, Computer Science, WuHan University(WHU), China
++ 2011, Software Engineering, WuHan University(WHU), China
 + 2008, TianJin YaoHua HighSchool, China
 
 ### Projects
 
-+ User Identity Resolution across Social Media Platforms, Big Data and Cloud Compute Lab, 2015, some research about user identity resolution
++ [User Identity Resolution across Social Media Platforms](https://github.com/stamaimer/MrUirf), Big Data and Cloud Compute Lab, 2015, some research about user identity resolution
 
-+ Twitter Sentiment Analysis, Big Data and Cloud Compute Lab, 2014, Xiaohui Cui, some research about sentiment analysis、text mining with machine learning
++ [Twitter Sentiment Analysis](https://github.com/stamaimer/TwitterSentimentAnalysis), Big Data and Cloud Compute Lab, 2014, Xiaohui Cui, some research about sentiment analysis、text mining with machine learning
 
-+ Web Crawler, Utility Tools, 2014, crawl merchandise information from e-commerce website (include newegg, synnex, walmart)
++ [Web Crawler](https://github.com/stamaimer/Crawler), Utility Tools, 2014, crawl merchandise information from e-commerce website (include newegg, synnex, walmart)
 
 + E-Wallet, Citi Cup, 2013, Hengjin Cai  
   Android, NFC involved.
