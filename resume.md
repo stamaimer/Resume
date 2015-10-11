@@ -24,8 +24,8 @@
 
 ### Education
 
-+ 2015, Computer Science, WuHan University(WHU), China
-+ 2011, Software Engineering, WuHan University(WHU), China
++ 2015, Master, Computer Science, WuHan University(WHU), China
++ 2011, Bachelor, Software Engineering, WuHan University(WHU), China
 + 2008, TianJin YaoHua HighSchool, China
 
 ### Projects
